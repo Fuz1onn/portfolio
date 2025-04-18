@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Online Library Catalog Viewing System",
     description:
-      "This website serves as the official online catalog of the library, showcasing digitized books and providing detailed information about the library’s history and services. Its main feature is a seat reservation and scheduling system, allowing users to book available spots in the library with ease.",
+      "Serves as the official online catalog of the library, showcasing digitized books and providing detailed information about the library. It's main feature is a seat reservation, allowing users to book available spots in the library with ease.",
     technologies: ["PHP", "HTML", "CSS", "JavaScript", "Bootstrap", "MySQL"],
     imageUrl: "/images/projects/Project1.png", // Placeholder image
     githubUrl: "https://github.com/Fuz1onn/PHACTO", // Replace with actual GitHub URL
